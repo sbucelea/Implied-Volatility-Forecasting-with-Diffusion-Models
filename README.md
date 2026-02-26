@@ -11,23 +11,27 @@ We replace the U-Net architecture with a Diffusion Transformer that:
 
 
 
-References
-Original Paper
+# References
+
+## Original Paper
 
 Jin & Agarwal (2025). "Forecasting implied volatility surface with generative diffusion models." arXiv:2511.07571
 
-Diffusion Models
+## Diffusion Models
 
 Ho et al. (2020). "Denoising Diffusion Probabilistic Models." NeurIPS.
 Nichol & Dhariwal (2021). "Improved Denoising Diffusion Probabilistic Models." ICML.
 Song et al. (2021). "Score-Based Generative Modeling through Stochastic Differential Equations." ICLR.
 
-Transformers for Diffusion
+## Transformers for Diffusion
 
 Peebles & Xie (2023). "Scalable Diffusion Models with Transformers." ICCV.
 Rombach et al. (2022). "High-Resolution Image Synthesis with Latent Diffusion Models." CVPR.
 
-Volatility Modeling
+## Volatility Modeling
+
+Dupire (1994). "Pricing with a Smile." Risk Magazine.
+Gatheral (2006). "The Volatility Surface: A Practitioner's Guide." Wiley.
 
 Dupire (1994). "Pricing with a Smile." Risk Magazine.
 Gatheral (2006). "The Volatility Surface: A Practitioner's Guide." Wiley.
